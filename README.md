@@ -1,3 +1,3 @@
-💻 Software Engineer at IntelliTect 
+💻 Software Engineer at [IntelliTect](https://intellitect.com/)
 
-🐍 Spokane Python User Group organizer 
+🐍 [Spokane Python User Group](https://spokanepython.com/) organizer 
